@@ -153,7 +153,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
 | [CoinGecko](https://www.coingecko.com) | Cryptocurrency prices, market data, and exchanges | No | Yes | Free | [Docs](https://www.coingecko.com/en/api/documentation) |
-| [CoinMarketCap](https://coinmarketcap.com) | Cryptocurrency market cap rankings and data | `apiKey` | Yes | Freemium | [Docs](https://coinmarketcap.com/api/documentation/) |
+| [CoinMarketCap](https://coinmarketcap.com) | Cryptocurrency market cap rankings and data | `apiKey` | Yes | Freemium | [Docs](https://coinmarketcap.com/api/documentation/v1/) |
 | [Etherscan](https://etherscan.io) | Ethereum blockchain explorer and analytics | `apiKey` | Yes | Freemium | [Docs](https://docs.etherscan.io/) |
 
 ### Books
@@ -162,7 +162,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 |-----|-------------|------|------|------|------|
 | [Google Books](https://books.google.com) | Search and browse books from Google's library | `apiKey` | Yes | Free | [Docs](https://developers.google.com/books/docs/v1/using) |
 | [Open Library](https://openlibrary.org) | Access to millions of books and their metadata | No | Yes | Free | [Docs](https://openlibrary.org/developers/api) |
-| [Penguin Random House](https://www.penguinrandomhouse.com) | Book metadata and information | No | Yes | Free | [Docs](https://developer.penguinrandomhouse.com/) |
+| [Penguin Random House](https://www.penguinrandomhouse.com) | Book metadata and information | No | Yes | Free | [Docs](https://developer.penguinrandomhouse.com/docs) |
 
 ### Business and Finance
 
@@ -170,14 +170,12 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 |-----|-------------|------|------|------|------|
 | [Alpha Vantage](https://www.alphavantage.co) | Stock, forex, and cryptocurrency data | `apiKey` | Yes | Freemium | [Docs](https://www.alphavantage.co/documentation/) |
 | [Finnhub](https://finnhub.io) | Real-time stock prices, company financials, and news | `apiKey` | Yes | Freemium | [Docs](https://finnhub.io/docs/api) |
-| [IEX Cloud](https://iexcloud.io) | Financial data, stock quotes, and market data | `apiKey` | Yes | Freemium | [Docs](https://iexcloud.io/docs/api/) |
-| [Yahoo Finance](https://finance.yahoo.com) | Stock quotes, financial news, and portfolio management | `apiKey` | Yes | Free | [Docs](https://www.yahoofinanceapi.com/) |
 
 ### Calendar
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
-| [Abstract Holidays](https://www.abstractapi.com) | Public holidays for 200+ countries | `apiKey` | Yes | Freemium | [Docs](https://www.abstractapi.com/api/holidays-api) |
+| [Abstract Holidays](https://www.abstractapi.com/api/holidays-api) | Public holidays for 200+ countries | `apiKey` | Yes | Freemium | [Docs](https://docs.abstractapi.com/holidays) |
 | [Calendarific](https://calendarific.com) | Public holidays and observances worldwide | `apiKey` | Yes | Freemium | [Docs](https://calendarific.com/api-documentation) |
 | [Nager.Date](https://date.nager.at) | Public holidays for 100+ countries | No | Yes | Free | [Docs](https://date.nager.at/Api) |
 
@@ -188,7 +186,6 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [Cloudinary](https://cloudinary.com) | Image and video management in the cloud | `apiKey` | Yes | Freemium | [Docs](https://cloudinary.com/documentation) |
 | [Dropbox](https://www.dropbox.com) | File storage, sharing, and synchronization | `OAuth` | Yes | Freemium | [Docs](https://www.dropbox.com/developers/documentation) |
 | [Google Drive](https://drive.google.com) | Cloud file storage and collaboration | `OAuth` | Yes | Freemium | [Docs](https://developers.google.com/drive/api) |
-| [MinIO](https://min.io) | S3-compatible object storage | `apiKey` | Yes | Open Source | [Docs](https://min.io/docs/minio/linux/developers/minio-drivers.html) |
 
 ### Communication
 
@@ -224,7 +221,6 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [GitHub](https://github.com) | Repositories, issues, pull requests, and more | `OAuth` | Yes | Free | [Docs](https://docs.github.com/en/rest) |
 | [GitLab](https://gitlab.com) | Git repository management and CI/CD | `OAuth` | Yes | Freemium | [Docs](https://docs.gitlab.com/ee/api/) |
 | [httpbin](https://httpbin.org) | HTTP request and response testing | No | Yes | Free | [Docs](https://httpbin.org/) |
-| [Public APIs](https://api.publicapis.org) | Collective list of free APIs for development | No | Yes | Free | [Docs](https://api.publicapis.org/) |
 | [Replit](https://replit.com) | Collaborative code editor and hosting | `apiKey` | Yes | Freemium | [Docs](https://docs.replit.com/) |
 
 ### Documents and Files
@@ -308,8 +304,8 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
-| [Data.gov](https://data.gov) | US government open data | `apiKey` | Yes | Free | [Docs](https://data.gov/developers/) |
-| [EU Open Data](https://data.europa.eu) | European Union open data portal | No | Yes | Free | [Docs](https://data.europa.eu/en/developers-corner) |
+| [Data.gov](https://data.gov) | US government open data | `apiKey` | Yes | Free | [Docs](https://catalog.data.gov/dataset/) |
+| [EU Open Data](https://data.europa.eu) | European Union open data portal | No | Yes | Free | [Docs](https://dataeuropa.gitlab.io/data-provider-manual/api-documentation/) |
 | [Federal Register](https://www.federalregister.gov) | US federal regulations and notices | No | Yes | Free | [Docs](https://www.federalregister.gov/developers/documentation/api/v1) |
 | [UK Government](https://www.gov.uk) | UK government datasets and services | No | Yes | Free | [Docs](https://www.api.gov.uk/) |
 
@@ -317,7 +313,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
-| [Nutritionix](https://www.nutritionix.com) | Nutrition data for foods and exercises | `apiKey` | Yes | Freemium | [Docs](https://developer.nutritionix.com/) |
+| [Nutritionix](https://www.nutritionix.com) | Nutrition data for foods and exercises | `apiKey` | Yes | Freemium | [Docs](https://docx.syndigo.com/developers/docs/nutritionix-api-guide) |
 | [Open Disease](https://disease.sh) | COVID-19, influenza, and disease statistics | No | Yes | Free | [Docs](https://disease.sh/docs/) |
 | [OpenFDA](https://open.fda.gov) | FDA drug, device, and food data | `apiKey` | Yes | Free | [Docs](https://open.fda.gov/apis/) |
 
@@ -326,7 +322,6 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
 | [Imgur](https://imgur.com) | Image hosting and sharing | `OAuth` | Yes | Free | [Docs](https://apidocs.imgur.com/) |
-| [Lorem Picsum](https://picsum.photos) | Random placeholder images | No | Yes | Free | [Docs](https://picsum.photos/) |
 | [Pexels](https://www.pexels.com) | Free stock photos and videos | `apiKey` | Yes | Free | [Docs](https://www.pexels.com/api/documentation/) |
 | [Remove.bg](https://www.remove.bg) | Remove image backgrounds automatically | `apiKey` | Yes | Freemium | [Docs](https://www.remove.bg/api) |
 | [Unsplash](https://unsplash.com) | Beautiful free images and photos | `apiKey` | Yes | Free | [Docs](https://unsplash.com/documentation) |
@@ -335,7 +330,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
-| [Adzuna](https://www.adzuna.com) | Job search engine aggregating listings | `apiKey` | Yes | Free | [Docs](https://developer.adzuna.com/) |
+| [Adzuna](https://www.adzuna.com) | Job search engine aggregating listings | `apiKey` | Yes | Free | [Docs](https://developer.adzuna.com/overview) |
 | [Arbeitnow](https://arbeitnow.com) | Job board with remote positions | No | Yes | Free | [Docs](https://documenter.getpostman.com/view/18545278/UVJbJdKh) |
 | [Remotive](https://remotive.com) | Remote job listings | No | Yes | Free | [Docs](https://remotive.com/api-documentation) |
 | [The Muse](https://www.themuse.com) | Job listings and company profiles | `apiKey` | Yes | Free | [Docs](https://www.themuse.com/developers/api/v2) |
@@ -353,7 +348,6 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
-| [Deezer](https://www.deezer.com) | Music streaming and catalog data | `OAuth` | Yes | Free | [Docs](https://developers.deezer.com/api) |
 | [Genius](https://genius.com) | Song lyrics and music knowledge | `OAuth` | Yes | Free | [Docs](https://docs.genius.com/) |
 | [Last.fm](https://www.last.fm) | Music discovery and scrobbling | `apiKey` | Yes | Free | [Docs](https://www.last.fm/api) |
 | [MusicBrainz](https://musicbrainz.org) | Open music encyclopedia | No | Yes | Open Source | [Docs](https://musicbrainz.org/doc/MusicBrainz_API) |
@@ -382,7 +376,6 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
-| [Braintree](https://www.braintreepayments.com) | Payment processing by PayPal | `apiKey` | Yes | Freemium | [Docs](https://developer.paypal.com/braintree/docs) |
 | [PayPal](https://www.paypal.com) | Online payments and money transfers | `OAuth` | Yes | Freemium | [Docs](https://developer.paypal.com/docs/api/overview/) |
 | [Square](https://squareup.com) | Payment processing and POS | `OAuth` | Yes | Freemium | [Docs](https://developer.squareup.com/reference/square) |
 | [Stripe](https://stripe.com) | Payment processing for internet businesses | `apiKey` | Yes | Freemium | [Docs](https://stripe.com/docs/api) |
@@ -412,7 +405,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 |-----|-------------|------|------|------|------|
 | [Have I Been Pwned](https://haveibeenpwned.com) | Check if email was in data breach | `apiKey` | Yes | Freemium | [Docs](https://haveibeenpwned.com/API/v3) |
 | [SecurityTrails](https://securitytrails.com) | DNS and domain intelligence | `apiKey` | Yes | Freemium | [Docs](https://docs.securitytrails.com/) |
-| [Shodan](https://www.shodan.io) | Search engine for internet-connected devices | `apiKey` | Yes | Freemium | [Docs](https://developer.shodan.io/) |
+| [Shodan](https://www.shodan.io) | Search engine for internet-connected devices | `apiKey` | Yes | Freemium | [Docs](https://developer.shodan.io/api) |
 | [VirusTotal](https://www.virustotal.com) | File and URL malware analysis | `apiKey` | Yes | Freemium | [Docs](https://developers.virustotal.com/) |
 
 ### Shopping
@@ -448,7 +441,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
 | [API-Football](https://www.api-football.com) | Football/soccer leagues and matches | `apiKey` | Yes | Freemium | [Docs](https://www.api-football.com/documentation-v3) |
-| [balldontlie](https://www.balldontlie.io) | NBA players, teams, and stats | No | Yes | Free | [Docs](https://www.balldontlie.io/home.html) |
+| [balldontlie](https://www.balldontlie.io) | NBA players, teams, and stats | No | Yes | Free | [Docs](https://www.balldontlie.io/docs/) |
 | [ESPN](https://www.espn.com) | Sports scores and news | No | Yes | Free | [Docs](https://gist.github.com/akeaswaran/b48b02f1c94f873c6655e7129910fc3b) |
 | [Football-Data.org](https://www.football-data.org) | Football competitions and matches | `apiKey` | Yes | Freemium | [Docs](https://www.football-data.org/documentation/quickstart) |
 | [TheSportsDB](https://www.thesportsdb.com) | Sports data, teams, and events | `apiKey` | Yes | Freemium | [Docs](https://www.thesportsdb.com/api.php) |
@@ -461,7 +454,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com) | Fake REST API for testing | No | Yes | Free | [Docs](https://jsonplaceholder.typicode.com/) |
 | [Mockaroo](https://www.mockaroo.com) | Generate realistic test data | `apiKey` | Yes | Freemium | [Docs](https://www.mockaroo.com/api/docs) |
 | [Random User](https://randomuser.me) | Random user data generator | No | Yes | Free | [Docs](https://randomuser.me/documentation) |
-| [ReqRes](https://reqres.in) | Hosted REST API for testing | No | Yes | Free | [Docs](https://reqres.in/) |
+| [ReqRes](https://reqres.in) | Hosted REST API for testing | No | Yes | Free | [Docs](https://app.reqres.in/documentation) |
 
 ### Text Analysis
 
@@ -488,7 +481,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [Bitly](https://bitly.com) | Link shortening and analytics | `OAuth` | Yes | Freemium | [Docs](https://dev.bitly.com/) |
 | [Dub](https://dub.co) | Open source link management | `apiKey` | Yes | Open Source | [Docs](https://dub.co/docs/api-reference) |
 | [Rebrandly](https://www.rebrandly.com) | Branded short links | `apiKey` | Yes | Freemium | [Docs](https://developers.rebrandly.com/) |
-| [Short.io](https://short.io) | Link shortening with custom domains | `apiKey` | Yes | Freemium | [Docs](https://developers.short.io/) |
+| [Short.io](https://short.io) | Link shortening with custom domains | `apiKey` | Yes | Freemium | [Docs](https://developers.short.io/reference/get_links-opengraph-domainid-linkid) |
 
 ### Video
 
@@ -496,7 +489,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 |-----|-------------|------|------|------|------|
 | [Dailymotion](https://www.dailymotion.com) | Video hosting and streaming | `OAuth` | Yes | Free | [Docs](https://developers.dailymotion.com/) |
 | [Mux](https://mux.com) | Video streaming and analytics | `apiKey` | Yes | Freemium | [Docs](https://docs.mux.com/) |
-| [Vimeo](https://vimeo.com) | Video hosting and sharing | `OAuth` | Yes | Freemium | [Docs](https://developer.vimeo.com/) |
+| [Vimeo](https://vimeo.com) | Video hosting and sharing | `OAuth` | Yes | Freemium | [Docs](https://developer.vimeo.com/api/guides/start) |
 | [YouTube](https://www.youtube.com) | Video search, playlists, and channels | `apiKey` | Yes | Free | [Docs](https://developers.google.com/youtube/v3) |
 
 ### Weather
