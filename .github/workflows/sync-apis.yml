@@ -6,15 +6,9 @@ on:
       - main
     paths:
       - 'README.md'
-  pull_request:
-    types: [closed]
-    branches:
-      - main
 
 jobs:
   sync:
-    # Only run if PR was merged (not just closed) or if it's a direct push
-    if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.pull_request.merged == true)
     runs-on: ubuntu-latest
 
     steps:
