@@ -468,6 +468,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [Semarize](https://semarize.com) | Conversational intelligence API for structured transcript signals | `apiKey` | No | Freemium | [Docs](https://semarize.com/developers/api) |
 | [Detect Language](https://detectlanguage.com) | Language detection API | `apiKey` | Yes | Freemium | [Docs](https://detectlanguage.com/documentation) |
 | [Google Cloud NLP](https://cloud.google.com/natural-language) | Sentiment, entity, and syntax analysis | `apiKey` | Yes | Freemium | [Docs](https://cloud.google.com/natural-language/docs) |
 | [LanguageTool](https://languagetool.org) | Grammar and spell checking | `apiKey` | Yes | Open Source | [Docs](https://languagetool.org/http-api/) |
