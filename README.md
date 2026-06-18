@@ -226,6 +226,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [GitLab](https://gitlab.com) | Git repository management and CI/CD | `OAuth` | Yes | Freemium | [Docs](https://docs.gitlab.com/ee/api/) |
 | [httpbin](https://httpbin.org) | HTTP request and response testing | No | Yes | Free | [Docs](https://httpbin.org/) |
 | [Replit](https://replit.com) | Collaborative code editor and hosting | `apiKey` | Yes | Freemium | [Docs](https://docs.replit.com/) |
+| [Tech Detect](https://tech-detect.com) | Website technology detection | `apiKey` | Yes | Freemium | [Docs](https://tech-detect.com/api-docs) |
 
 ### Documents and Files
 
