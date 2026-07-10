@@ -232,7 +232,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
-| [ConvertHub](https://converthub.com/api) | Convert documents, images, ebooks, presentations, and more — all in one API. Fast, secure, and easy to integrate. | `apiKey` | No | Paid | [Docs](https://converthub.com/api/docs) |
+| [ConvertHub](https://converthub.com/api) | Convert documents, images, ebooks, presentations, and more - all in one API. Fast, secure, and easy to integrate. | `apiKey` | No | Paid | [Docs](https://converthub.com/api/docs) |
 
 ### E-commerce
 
@@ -444,6 +444,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [Mastodon](https://joinmastodon.org) | Decentralized social networking | `OAuth` | Yes | Open Source | [Docs](https://docs.joinmastodon.org/api/) |
 | [Reddit](https://www.reddit.com) | Social news and community discussions | `OAuth` | Yes | Free | [Docs](https://www.reddit.com/dev/api/) |
 | [Tumblr](https://www.tumblr.com) | Microblogging and social networking | `OAuth` | Yes | Free | [Docs](https://www.tumblr.com/docs/en/api/v2) |
+| [Xquik](https://xquik.com) | X/Twitter search, follower exports, social listening, writes, webhooks, and MCP | `apiKey` | Unknown | Paid | [Docs](https://docs.xquik.com/api-reference/overview) |
 
 ### Sports
 
