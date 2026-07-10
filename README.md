@@ -385,6 +385,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [OPEN RAMBO Issuing API](https://openrambo.com/en/card-issuing-api/) | Card issuing workflow, funding, controls, and reconciliation | `apiKey` | Unknown | Paid | [Docs](https://openrambo.com/en/card-issuing-api/) |
 | [PayPal](https://www.paypal.com) | Online payments and money transfers | `OAuth` | Yes | Freemium | [Docs](https://developer.paypal.com/docs/api/overview/) |
 | [Square](https://squareup.com) | Payment processing and POS | `OAuth` | Yes | Freemium | [Docs](https://developer.squareup.com/reference/square) |
 | [Stripe](https://stripe.com) | Payment processing for internet businesses | `apiKey` | Yes | Freemium | [Docs](https://stripe.com/docs/api) |
