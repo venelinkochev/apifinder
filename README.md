@@ -205,8 +205,8 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
 | [ExchangeRate-API](https://www.exchangerate-api.com) | Free currency conversion rates | `apiKey` | Yes | Freemium | [Docs](https://www.exchangerate-api.com/docs) |
-| [Frankfurter](https://www.frankfurter.app) | Exchange rates from European Central Bank | No | Yes | Free | [Docs](https://www.frankfurter.app/docs/) |
 | [Fixer](https://fixer.io) | Foreign exchange rates and currency conversion | `apiKey` | Yes | Freemium | [Docs](https://fixer.io/documentation) |
+| [Frankfurter](https://www.frankfurter.app) | Exchange rates from European Central Bank | No | Yes | Free | [Docs](https://www.frankfurter.app/docs/) |
 | [Open Exchange Rates](https://openexchangerates.org) | Real-time and historical exchange rates | `apiKey` | Yes | Freemium | [Docs](https://docs.openexchangerates.org/) |
 
 ### Data Validation
@@ -232,7 +232,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
-| [ConvertHub](https://converthub.com/api) | Convert documents, images, ebooks, presentations, and more - all in one API. Fast, secure, and easy to integrate. | `apiKey` | No | Paid | [Docs](https://converthub.com/api/docs) |
+| [ConvertHub](https://converthub.com/api) | Convert documents, images, ebooks, presentations, and more through one API | `apiKey` | No | Paid | [Docs](https://converthub.com/api/docs) |
 
 ### E-commerce
 
@@ -302,9 +302,9 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
 | [GeoJS](https://www.geojs.io) | IP geolocation with no rate limits | No | Yes | Free | [Docs](https://www.geojs.io/docs/) |
-| [ipapi](https://ipapi.co) | IP address geolocation | No | Yes | Freemium | [Docs](https://ipapi.co/api/) |
 | [IP-API](https://ip-api.com) | IP geolocation with timezone and ISP | No | Yes | Free | [Docs](https://ip-api.com/docs) |
 | [IP-API.io](https://ip-api.io) | IP geolocation with VPN/proxy/Tor detection and risk scoring | `apiKey` | Yes | Freemium | [Docs](https://ip-api.io/api-docs.html) |
+| [ipapi](https://ipapi.co) | IP address geolocation | No | Yes | Freemium | [Docs](https://ipapi.co/api/) |
 | [ipinfo](https://ipinfo.io) | IP address data and geolocation | `apiKey` | Yes | Freemium | [Docs](https://ipinfo.io/developers) |
 
 ### Government
@@ -348,8 +348,8 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 |-----|-------------|------|------|------|------|
 | [Google Maps](https://maps.google.com) | Maps, directions, and places | `apiKey` | Yes | Freemium | [Docs](https://developers.google.com/maps/documentation) |
 | [Mapbox](https://www.mapbox.com) | Custom maps, geocoding, and navigation | `apiKey` | Yes | Freemium | [Docs](https://docs.mapbox.com/api/) |
-| [OpenStreetMap](https://www.openstreetmap.org) | Free editable map of the world | No | Yes | Open Source | [Docs](https://wiki.openstreetmap.org/wiki/API) |
 | [OpenRouteService](https://openrouteservice.org) | Routing, geocoding, and isochrones | `apiKey` | Yes | Free | [Docs](https://openrouteservice.org/dev/#/api-docs) |
+| [OpenStreetMap](https://www.openstreetmap.org) | Free editable map of the world | No | Yes | Open Source | [Docs](https://wiki.openstreetmap.org/wiki/API) |
 
 ### Music
 
@@ -366,8 +366,8 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 |-----|-------------|------|------|------|------|
 | [GNews](https://gnews.io) | Search news articles from various sources | `apiKey` | Yes | Freemium | [Docs](https://gnews.io/docs/v4) |
 | [Hacker News](https://news.ycombinator.com) | Tech news and discussions | No | Yes | Free | [Docs](https://github.com/HackerNews/API) |
-| [NewsAPI](https://newsapi.org) | News articles from 80,000+ sources | `apiKey` | Yes | Freemium | [Docs](https://newsapi.org/docs) |
 | [New York Times](https://www.nytimes.com) | NYT articles, archives, and best sellers | `apiKey` | Yes | Freemium | [Docs](https://developer.nytimes.com/apis) |
+| [NewsAPI](https://newsapi.org) | News articles from 80,000+ sources | `apiKey` | Yes | Freemium | [Docs](https://newsapi.org/docs) |
 | [The Guardian](https://www.theguardian.com) | Guardian articles and content | `apiKey` | Yes | Free | [Docs](https://open-platform.theguardian.com/documentation/) |
 
 ### Open Data
@@ -446,6 +446,9 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [Tumblr](https://www.tumblr.com) | Microblogging and social networking | `OAuth` | Yes | Free | [Docs](https://www.tumblr.com/docs/en/api/v2) |
 | [Xquik](https://xquik.com) | X/Twitter search, follower exports, social listening, writes, webhooks, and MCP | `apiKey` | Unknown | Paid | [Docs](https://docs.xquik.com/api-reference/overview) |
 
+Xquik is an independent third-party service. Not affiliated with X Corp.
+"Twitter" and "X" are trademarks of X Corp.
+
 ### Sports
 
 | API | Description | Auth | CORS | Type | Docs |
@@ -454,8 +457,8 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [balldontlie](https://www.balldontlie.io) | NBA players, teams, and stats | No | Yes | Free | [Docs](https://www.balldontlie.io/docs/) |
 | [ESPN](https://www.espn.com) | Sports scores and news | No | Yes | Free | [Docs](https://gist.github.com/akeaswaran/b48b02f1c94f873c6655e7129910fc3b) |
 | [Football-Data.org](https://www.football-data.org) | Football competitions and matches | `apiKey` | Yes | Freemium | [Docs](https://www.football-data.org/documentation/quickstart) |
-| [TheSportsDB](https://www.thesportsdb.com) | Sports data, teams, and events | `apiKey` | Yes | Freemium | [Docs](https://www.thesportsdb.com/api.php) |
 | [iSports API](https://www.isportsapi.com) | Football and basketball sports data | `apiKey` | Yes | Freemium | [Docs](https://www.isportsapi.com/en/docs.html) |
+| [TheSportsDB](https://www.thesportsdb.com) | Sports data, teams, and events | `apiKey` | Yes | Freemium | [Docs](https://www.thesportsdb.com/api.php) |
 
 ### Testing
 
@@ -471,11 +474,11 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
-| [Semarize](https://semarize.com) | Conversational intelligence API for structured transcript signals | `apiKey` | No | Freemium | [Docs](https://semarize.com/developers/api) |
 | [Detect Language](https://detectlanguage.com) | Language detection API | `apiKey` | Yes | Freemium | [Docs](https://detectlanguage.com/documentation) |
 | [Google Cloud NLP](https://cloud.google.com/natural-language) | Sentiment, entity, and syntax analysis | `apiKey` | Yes | Freemium | [Docs](https://cloud.google.com/natural-language/docs) |
 | [LanguageTool](https://languagetool.org) | Grammar and spell checking | `apiKey` | Yes | Open Source | [Docs](https://languagetool.org/http-api/) |
 | [LibreTranslate](https://libretranslate.com) | Open source machine translation | `apiKey` | Yes | Open Source | [Docs](https://libretranslate.com/docs/) |
+| [Semarize](https://semarize.com) | Conversational intelligence API for structured transcript signals | `apiKey` | No | Freemium | [Docs](https://semarize.com/developers/api) |
 
 ### Transportation
 
