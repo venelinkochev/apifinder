@@ -339,6 +339,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 |-----|-------------|------|------|------|------|
 | [Adzuna](https://www.adzuna.com) | Job search engine aggregating listings | `apiKey` | Yes | Free | [Docs](https://developer.adzuna.com/overview) |
 | [Arbeitnow](https://arbeitnow.com) | Job board with remote positions | No | Yes | Free | [Docs](https://documenter.getpostman.com/view/18545278/UVJbJdKh) |
+| [Jobvetta](https://www.jobvetta.com) | Search India-focused openings gathered directly from company career sites | `apiKey` | Yes | Free | [Docs](https://www.jobvetta.com/api) |
 | [Remotive](https://remotive.com) | Remote job listings | No | Yes | Free | [Docs](https://remotive.com/api-documentation) |
 | [The Muse](https://www.themuse.com) | Job listings and company profiles | `apiKey` | Yes | Free | [Docs](https://www.themuse.com/developers/api/v2) |
 
