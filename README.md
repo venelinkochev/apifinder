@@ -171,6 +171,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
 | [Alpha Vantage](https://www.alphavantage.co) | Stock, forex, and cryptocurrency data | `apiKey` | Yes | Freemium | [Docs](https://www.alphavantage.co/documentation/) |
+| [Bargo Congress Trades](https://www.bargo.ai/free-apis/congress) | Normalized U.S. Congress STOCK Act trades with member, ticker, and performance data | No | Yes | Free | [Docs](https://www.bargo.ai/free-apis/congress) |
 | [FinancialData.Net](https://financialdata.net/) | Real-time and historical stock data, financial statements, insider trades | `apiKey` | Yes | Freemium | [Docs](https://financialdata.net/documentation) |
 | [Finnhub](https://finnhub.io) | Real-time stock prices, company financials, and news | `apiKey` | Yes | Freemium | [Docs](https://finnhub.io/docs/api) |
 | [Signaliz](https://signaliz.com) | GTM enrichment, lead generation, email verification, and company signals | `apiKey` | Unknown | Freemium | [Docs](https://signaliz.docs.buildwithfern.com/signaliz-api-public-docs/introduction) |
