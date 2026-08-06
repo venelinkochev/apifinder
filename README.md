@@ -387,6 +387,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
 | [PayPal](https://www.paypal.com) | Online payments and money transfers | `OAuth` | Yes | Freemium | [Docs](https://developer.paypal.com/docs/api/overview/) |
+| [Ramp Radar API](https://rampradar.online/) | Stablecoin on/off-ramp route intelligence and fee signals | `apiKey` | Unknown | Paid | [Docs](https://rampradar.online/en/api-docs) |
 | [Square](https://squareup.com) | Payment processing and POS | `OAuth` | Yes | Freemium | [Docs](https://developer.squareup.com/reference/square) |
 | [Stripe](https://stripe.com) | Payment processing for internet businesses | `apiKey` | Yes | Freemium | [Docs](https://stripe.com/docs/api) |
 
