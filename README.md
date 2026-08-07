@@ -445,6 +445,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [Mastodon](https://joinmastodon.org) | Decentralized social networking | `OAuth` | Yes | Open Source | [Docs](https://docs.joinmastodon.org/api/) |
 | [Reddit](https://www.reddit.com) | Social news and community discussions | `OAuth` | Yes | Free | [Docs](https://www.reddit.com/dev/api/) |
 | [Tumblr](https://www.tumblr.com) | Microblogging and social networking | `OAuth` | Yes | Free | [Docs](https://www.tumblr.com/docs/en/api/v2) |
+| [TweetAPI](https://tweetapi.com) | Public Twitter data for posts, profiles, followers, search, lists and communities | `apiKey` | No | Freemium | [Docs](https://tweetapi.com/docs) |
 
 ### Sports
 
