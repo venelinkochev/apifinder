@@ -456,6 +456,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [Football-Data.org](https://www.football-data.org) | Football competitions and matches | `apiKey` | Yes | Freemium | [Docs](https://www.football-data.org/documentation/quickstart) |
 | [TheSportsDB](https://www.thesportsdb.com) | Sports data, teams, and events | `apiKey` | Yes | Freemium | [Docs](https://www.thesportsdb.com/api.php) |
 | [iSports API](https://www.isportsapi.com) | Football and basketball sports data | `apiKey` | Yes | Freemium | [Docs](https://www.isportsapi.com/en/docs.html) |
+| [World Cup 2026 Tour](https://ay-worldcup2026.zeabur.app) | World Cup 2026 fixtures with local kickoff times and feeds | No | Yes | Free | [Docs](https://ay-worldcup2026.zeabur.app/developers) |
 
 ### Testing
 
