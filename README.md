@@ -174,6 +174,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [FinancialData.Net](https://financialdata.net/) | Real-time and historical stock data, financial statements, insider trades | `apiKey` | Yes | Freemium | [Docs](https://financialdata.net/documentation) |
 | [Finnhub](https://finnhub.io) | Real-time stock prices, company financials, and news | `apiKey` | Yes | Freemium | [Docs](https://finnhub.io/docs/api) |
 | [Signaliz](https://signaliz.com) | GTM enrichment, lead generation, email verification, and company signals | `apiKey` | Unknown | Freemium | [Docs](https://signaliz.docs.buildwithfern.com/signaliz-api-public-docs/introduction) |
+| [LLM Price Watch](https://llmpricewatch.com) | Live LLM API pricing across Anthropic, OpenAI, Google, DeepSeek, xAI, plus a cost calculator and use-case model recommendation endpoint | None | Yes | Free | [Docs](https://llmpricewatch.com/api) |
 
 ### Calendar
 
