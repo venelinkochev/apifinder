@@ -376,6 +376,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
 | [EnrichAnything](https://www.enrichanything.com) | Published market scans and report summaries as structured JSON | No | Yes | Free | [Docs](https://www.enrichanything.com/api/) |
+| [LottoLens PH](https://lottolensph.com/research/pcso-results-data-coverage) | Fixed Philippine PCSO results and normal draw schedules | No | Yes | Free | [Docs](https://remo65588-boop.github.io/lottolens-ph-public-data/api/) |
 | [OpenCage](https://opencagedata.com) | Forward and reverse geocoding | `apiKey` | Yes | Freemium | [Docs](https://opencagedata.com/api) |
 | [PostalCodes.info](https://postalcodes.info/api) | Postal-code lookup, country exports, and address validation data | `apiKey` | Unknown | Freemium | [Docs](https://postalcodes.info/api) |
 | [REST Countries](https://restcountries.com) | Information about countries | No | Yes | Free | [Docs](https://restcountries.com/) |
