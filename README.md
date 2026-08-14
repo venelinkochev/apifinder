@@ -120,7 +120,9 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 |-----|-------------|------|------|------|------|
 | [Hugging Face](https://huggingface.co) | Access thousands of ML models for NLP, vision, and more | `apiKey` | Yes | Free | [Docs](https://huggingface.co/docs/api-inference) |
 | [OpenAI](https://openai.com) | GPT models, DALL-E, Whisper and more | `apiKey` | Yes | Paid | [Docs](https://platform.openai.com/docs/api-reference) |
+| [PatentFig AI](https://patentfig.ai) | Generate, vectorize, enhance, and convert patent figures | `apiKey` | No | Freemium | [Docs](https://patentfig.ai/docs/api) |
 | [Replicate](https://replicate.com) | Run open-source ML models in the cloud | `apiKey` | Yes | Freemium | [Docs](https://replicate.com/docs) |
+| [SciDraw AI](https://sci-draw.com) | Generate, edit, and convert publication-ready scientific figures | `apiKey` | No | Freemium | [Docs](https://sci-draw.com/docs/api) |
 | [Stability AI](https://stability.ai) | Stable Diffusion and other generative AI models | `apiKey` | Yes | Freemium | [Docs](https://platform.stability.ai/docs/api-reference) |
 
 ### Analytics
