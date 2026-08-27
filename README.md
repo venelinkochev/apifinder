@@ -450,6 +450,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [5DollarFootballAPI](https://5dollarfootballapi.com) | Football scores, fixtures, standings, corner/card stats, and odds | `apiKey` | Yes | Freemium | [Docs](https://5dollarfootballapi.com/docs) |
 | [API-Football](https://www.api-football.com) | Football/soccer leagues and matches | `apiKey` | Yes | Freemium | [Docs](https://www.api-football.com/documentation-v3) |
 | [balldontlie](https://www.balldontlie.io) | NBA players, teams, and stats | No | Yes | Free | [Docs](https://www.balldontlie.io/docs/) |
 | [ESPN](https://www.espn.com) | Sports scores and news | No | Yes | Free | [Docs](https://gist.github.com/akeaswaran/b48b02f1c94f873c6655e7129910fc3b) |
