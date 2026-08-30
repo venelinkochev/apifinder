@@ -413,6 +413,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [DomScan](https://domscan.net) | Public internet intelligence APIs for domains, DNS, web data, security, identity, and monitoring | `apiKey` | Yes | Freemium | [Docs](https://domscan.net/docs) |
 | [Have I Been Pwned](https://haveibeenpwned.com) | Check if email was in data breach | `apiKey` | Yes | Freemium | [Docs](https://haveibeenpwned.com/API/v3) |
 | [SecurityTrails](https://securitytrails.com) | DNS and domain intelligence | `apiKey` | Yes | Freemium | [Docs](https://docs.securitytrails.com/) |
 | [Shodan](https://www.shodan.io) | Search engine for internet-connected devices | `apiKey` | Yes | Freemium | [Docs](https://developer.shodan.io/api) |
