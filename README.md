@@ -214,6 +214,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
 | [AbstractAPI](https://www.abstractapi.com) | Email, phone, VAT, and IP validation | `apiKey` | Yes | Freemium | [Docs](https://www.abstractapi.com/api) |
+| [Email Validator](https://email.lifestep.io) | Validate email syntax, mail-routing DNS, and common risk signals | No | Yes | Free | [Docs](https://email.lifestep.io/docs) |
 | [Lob](https://www.lob.com) | Address verification and mail automation | `apiKey` | Yes | Freemium | [Docs](https://docs.lob.com/) |
 | [NumVerify](https://numverify.com) | Phone number validation and lookup | `apiKey` | Yes | Freemium | [Docs](https://numverify.com/documentation) |
 | [ZeroBounce](https://www.zerobounce.net) | Email validation and deliverability | `apiKey` | Yes | Freemium | [Docs](https://www.zerobounce.net/docs/) |
