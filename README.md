@@ -173,6 +173,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [Alpha Vantage](https://www.alphavantage.co) | Stock, forex, and cryptocurrency data | `apiKey` | Yes | Freemium | [Docs](https://www.alphavantage.co/documentation/) |
 | [FinancialData.Net](https://financialdata.net/) | Real-time and historical stock data, financial statements, insider trades | `apiKey` | Yes | Freemium | [Docs](https://financialdata.net/documentation) |
 | [Finnhub](https://finnhub.io) | Real-time stock prices, company financials, and news | `apiKey` | Yes | Freemium | [Docs](https://finnhub.io/docs/api) |
+| [MarketCode](https://marketcode.ai) | UK property data and analytics for investors, developers and AI assistants. | `apiKey` | Unknown | Paid | [Docs](https://marketcode.ai/data/api) |
 | [Signaliz](https://signaliz.com) | GTM enrichment, lead generation, email verification, and company signals | `apiKey` | Unknown | Freemium | [Docs](https://signaliz.docs.buildwithfern.com/signaliz-api-public-docs/introduction) |
 
 ### Calendar
