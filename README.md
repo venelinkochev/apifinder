@@ -119,6 +119,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
 | [Hugging Face](https://huggingface.co) | Access thousands of ML models for NLP, vision, and more | `apiKey` | Yes | Free | [Docs](https://huggingface.co/docs/api-inference) |
+| [ModelRush](https://modelrush.ai/) | Hosted API for text, image, video and audio models with prepaid usage credits | `apiKey` | Unknown | Paid | [Docs](https://modelrush.ai/docs) |
 | [OpenAI](https://openai.com) | GPT models, DALL-E, Whisper and more | `apiKey` | Yes | Paid | [Docs](https://platform.openai.com/docs/api-reference) |
 | [Replicate](https://replicate.com) | Run open-source ML models in the cloud | `apiKey` | Yes | Freemium | [Docs](https://replicate.com/docs) |
 | [Stability AI](https://stability.ai) | Stable Diffusion and other generative AI models | `apiKey` | Yes | Freemium | [Docs](https://platform.stability.ai/docs/api-reference) |
