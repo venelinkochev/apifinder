@@ -257,6 +257,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [Bucketlist.nl Dream of the Day](https://bucketlist.nl/api/droom-van-de-dag?scope=wereld&lang=en) | Daily travel and life-experience inspiration | No | Yes | Free | [Docs](https://bucketlist.nl/samenwerken?lang=en#droom-van-de-dag) |
 | [JokeAPI](https://jokeapi.dev) | Programming, puns, and misc jokes | No | Yes | Free | [Docs](https://jokeapi.dev/) |
 | [OMDb](https://www.omdbapi.com) | Movie and TV show information | `apiKey` | Yes | Freemium | [Docs](https://www.omdbapi.com/) |
 | [TMDB](https://www.themoviedb.org) | Movies, TV shows, and actors database | `apiKey` | Yes | Free | [Docs](https://developer.themoviedb.org/docs) |
