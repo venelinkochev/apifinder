@@ -476,6 +476,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [Google Cloud NLP](https://cloud.google.com/natural-language) | Sentiment, entity, and syntax analysis | `apiKey` | Yes | Freemium | [Docs](https://cloud.google.com/natural-language/docs) |
 | [LanguageTool](https://languagetool.org) | Grammar and spell checking | `apiKey` | Yes | Open Source | [Docs](https://languagetool.org/http-api/) |
 | [LibreTranslate](https://libretranslate.com) | Open source machine translation | `apiKey` | Yes | Open Source | [Docs](https://libretranslate.com/docs/) |
+| [Trimwise](https://trimwise.aatbit.com/) | Fit long documents into AI prompt budgets with relevant excerpts, with or without a query | No | Yes | Free | [Docs](https://trimwise.aatbit.com/docs) |
 
 ### Transportation
 
