@@ -500,6 +500,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
 | [Dailymotion](https://www.dailymotion.com) | Video hosting and streaming | `OAuth` | Yes | Free | [Docs](https://developers.dailymotion.com/) |
+| [Magic Hour](https://magichour.ai/api) | AI video and image generation, face swap, and lip sync | `apiKey` | Unknown | Freemium | [Docs](https://docs.magichour.ai/introduction) |
 | [Mux](https://mux.com) | Video streaming and analytics | `apiKey` | Yes | Freemium | [Docs](https://docs.mux.com/) |
 | [Vimeo](https://vimeo.com) | Video hosting and sharing | `OAuth` | Yes | Freemium | [Docs](https://developer.vimeo.com/api/guides/start) |
 | [YouTube](https://www.youtube.com) | Video search, playlists, and channels | `apiKey` | Yes | Free | [Docs](https://developers.google.com/youtube/v3) |
