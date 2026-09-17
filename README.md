@@ -454,8 +454,9 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [balldontlie](https://www.balldontlie.io) | NBA players, teams, and stats | No | Yes | Free | [Docs](https://www.balldontlie.io/docs/) |
 | [ESPN](https://www.espn.com) | Sports scores and news | No | Yes | Free | [Docs](https://gist.github.com/akeaswaran/b48b02f1c94f873c6655e7129910fc3b) |
 | [Football-Data.org](https://www.football-data.org) | Football competitions and matches | `apiKey` | Yes | Freemium | [Docs](https://www.football-data.org/documentation/quickstart) |
-| [TheSportsDB](https://www.thesportsdb.com) | Sports data, teams, and events | `apiKey` | Yes | Freemium | [Docs](https://www.thesportsdb.com/api.php) |
 | [iSports API](https://www.isportsapi.com) | Football and basketball sports data | `apiKey` | Yes | Freemium | [Docs](https://www.isportsapi.com/en/docs.html) |
+| [Odds API](https://odds-api.net/) | Pre-match sports and racing odds, WebSocket streams, historical data, and results | `apiKey` | No | Paid | [Docs](https://odds-api.net/docs) |
+| [TheSportsDB](https://www.thesportsdb.com) | Sports data, teams, and events | `apiKey` | Yes | Freemium | [Docs](https://www.thesportsdb.com/api.php) |
 
 ### Testing
 
