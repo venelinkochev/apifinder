@@ -375,6 +375,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [Bucketlist.nl](https://bucketlist.nl/?lang=en&scope=wereld) | One published travel or life experience idea per day, with image, theme and destination | No | Yes | Free | [Docs](https://bucketlist.nl/samenwerken?lang=en#droom-van-de-dag) |
 | [EnrichAnything](https://www.enrichanything.com) | Published market scans and report summaries as structured JSON | No | Yes | Free | [Docs](https://www.enrichanything.com/api/) |
 | [OpenCage](https://opencagedata.com) | Forward and reverse geocoding | `apiKey` | Yes | Freemium | [Docs](https://opencagedata.com/api) |
 | [PostalCodes.info](https://postalcodes.info/api) | Postal-code lookup, country exports, and address validation data | `apiKey` | Unknown | Freemium | [Docs](https://postalcodes.info/api) |
