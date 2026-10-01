@@ -195,6 +195,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [Communicate](https://communicate.so) | Workspace AI-agent discovery and customer-support conversations | `OAuth` / `apiKey` | Unknown | Paid | [Docs](https://developer.communicate.so/docs) |
 | [Discord](https://discord.com) | Chat, voice, and community platform | `OAuth` | Yes | Free | [Docs](https://discord.com/developers/docs) |
 | [Matrix](https://matrix.org) | Decentralized, open communication protocol | `apiKey` | Yes | Open Source | [Docs](https://spec.matrix.org/latest/) |
 | [Slack](https://slack.com) | Team messaging and collaboration | `OAuth` | Yes | Freemium | [Docs](https://api.slack.com/) |
