@@ -433,6 +433,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 |-----|-------------|------|------|------|------|
 | [Clickatell](https://www.clickatell.com) | SMS and chat messaging | `apiKey` | Yes | Paid | [Docs](https://docs.clickatell.com/) |
 | [MessageBird](https://messagebird.com) | SMS, voice, and chat | `apiKey` | Yes | Freemium | [Docs](https://developers.messagebird.com/) |
+| [NumberHub](https://numberhub.io/) | Receive SMS and verification emails, rent numbers, buy data eSIMs and residential proxies | `apiKey` | No | Paid | [Docs](https://numberhub.io/api-docs/) |
 | [Plivo](https://www.plivo.com) | SMS and voice communications | `apiKey` | Yes | Paid | [Docs](https://www.plivo.com/docs/) |
 | [Twilio](https://www.twilio.com) | SMS, voice, and messaging platform | `apiKey` | Yes | Freemium | [Docs](https://www.twilio.com/docs/sms) |
 | [Vonage](https://www.vonage.com) | SMS, voice, and video communications | `apiKey` | Yes | Freemium | [Docs](https://developer.vonage.com/) |
