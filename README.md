@@ -311,6 +311,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [Court Rules](https://www.courtrules.app) | US court rules, judge orders, filing deadlines and court holidays | `apiKey` | Yes | Free | [Docs](https://www.courtrules.app/api) |
 | [Data.gov](https://data.gov) | US government open data | `apiKey` | Yes | Free | [Docs](https://catalog.data.gov/dataset/) |
 | [EU Open Data](https://data.europa.eu) | European Union open data portal | No | Yes | Free | [Docs](https://dataeuropa.gitlab.io/data-provider-manual/api-documentation/) |
 | [Federal Register](https://www.federalregister.gov) | US federal regulations and notices | No | Yes | Free | [Docs](https://www.federalregister.gov/developers/documentation/api/v1) |
