@@ -503,6 +503,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [Mux](https://mux.com) | Video streaming and analytics | `apiKey` | Yes | Freemium | [Docs](https://docs.mux.com/) |
 | [Vimeo](https://vimeo.com) | Video hosting and sharing | `OAuth` | Yes | Freemium | [Docs](https://developer.vimeo.com/api/guides/start) |
 | [YouTube](https://www.youtube.com) | Video search, playlists, and channels | `apiKey` | Yes | Free | [Docs](https://developers.google.com/youtube/v3) |
+| [YouTube Transcript Search API by Arcmira](https://arcmira.com/docs) | Search indexed YouTube transcripts for timestamped quotes, speakers, and sponsors | `apiKey` | Yes | Freemium | [Docs](https://arcmira.com/docs) |
 
 ### Weather
 
