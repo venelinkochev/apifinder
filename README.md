@@ -365,6 +365,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [AIHOT](https://aihot.news) | Chinese AI news search and briefs; free reading/internal use; commercial reuse needs permission | No | Yes | Free | [Docs](https://aihot.news/openapi-v1.json) |
 | [GNews](https://gnews.io) | Search news articles from various sources | `apiKey` | Yes | Freemium | [Docs](https://gnews.io/docs/v4) |
 | [Hacker News](https://news.ycombinator.com) | Tech news and discussions | No | Yes | Free | [Docs](https://github.com/HackerNews/API) |
 | [NewsAPI](https://newsapi.org) | News articles from 80,000+ sources | `apiKey` | Yes | Freemium | [Docs](https://newsapi.org/docs) |
