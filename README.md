@@ -127,6 +127,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [Ads Lighthouse](https://adslighthouse.com) | Saved Google and Bing ad observations, advertiser reports and affiliate findings | `apiKey` | No | Paid | [Docs](https://adslighthouse.com/api) |
 | [Plausible](https://plausible.io) | Privacy-friendly website analytics | `apiKey` | Yes | Open Source | [Docs](https://plausible.io/docs/stats-api) |
 | [PostHog](https://posthog.com) | Product analytics, feature flags, and session replay | `apiKey` | Yes | Open Source | [Docs](https://posthog.com/docs/api) |
 | [Umami](https://umami.is) | Simple, fast, privacy-focused analytics | `apiKey` | Yes | Open Source | [Docs](https://umami.is/docs/api) |
