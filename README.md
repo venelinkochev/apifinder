@@ -314,6 +314,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [Data.gov](https://data.gov) | US government open data | `apiKey` | Yes | Free | [Docs](https://catalog.data.gov/dataset/) |
 | [EU Open Data](https://data.europa.eu) | European Union open data portal | No | Yes | Free | [Docs](https://dataeuropa.gitlab.io/data-provider-manual/api-documentation/) |
 | [Federal Register](https://www.federalregister.gov) | US federal regulations and notices | No | Yes | Free | [Docs](https://www.federalregister.gov/developers/documentation/api/v1) |
+| [Invokely](https://invokely.ai) | Official statistics by indicator and place, with periods, units, and source citations | `apiKey` | Yes | Paid | [Docs](https://invokely.ai/docs) |
 | [UK Government](https://www.gov.uk) | UK government datasets and services | No | Yes | Free | [Docs](https://www.api.gov.uk/) |
 
 ### Health and Fitness
