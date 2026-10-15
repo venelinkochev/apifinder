@@ -120,6 +120,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 |-----|-------------|------|------|------|------|
 | [Hugging Face](https://huggingface.co) | Access thousands of ML models for NLP, vision, and more | `apiKey` | Yes | Free | [Docs](https://huggingface.co/docs/api-inference) |
 | [OpenAI](https://openai.com) | GPT models, DALL-E, Whisper and more | `apiKey` | Yes | Paid | [Docs](https://platform.openai.com/docs/api-reference) |
+| [Orkas](https://orkas.ai/?source=dir_apifinder) | Hosted chat, web search, speech synthesis, image and video generation/editing | `apiKey` | Unknown | Paid | [Docs](https://orkas.ai/api-docs/) |
 | [Replicate](https://replicate.com) | Run open-source ML models in the cloud | `apiKey` | Yes | Freemium | [Docs](https://replicate.com/docs) |
 | [Stability AI](https://stability.ai) | Stable Diffusion and other generative AI models | `apiKey` | Yes | Freemium | [Docs](https://platform.stability.ai/docs/api-reference) |
 
