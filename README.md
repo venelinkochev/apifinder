@@ -238,6 +238,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [Ecommerce Data API](https://ecommercedataapi.com) | Amazon product, keyword and market research data via REST API and MCP | `apiKey` | Unknown | Paid | [Docs](https://ecommercedataapi.com/en/docs) |
 | [Fake Store](https://fakestoreapi.com) | E-commerce data for testing and prototyping | No | Yes | Free | [Docs](https://fakestoreapi.com/docs) |
 | [Medusa](https://medusajs.com) | Open source headless commerce platform | `apiKey` | Yes | Open Source | [Docs](https://docs.medusajs.com/api/store) |
 | [Shopify](https://www.shopify.com) | E-commerce platform for online stores | `OAuth` | Yes | Paid | [Docs](https://shopify.dev/api) |
