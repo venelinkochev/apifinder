@@ -375,6 +375,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [Election.org Public Data API](https://election.org/api/v1) | Source-linked U.S. election records and public civic data | No | Yes | Freemium | [Docs](https://election.org/data/api) |
 | [EnrichAnything](https://www.enrichanything.com) | Published market scans and report summaries as structured JSON | No | Yes | Free | [Docs](https://www.enrichanything.com/api/) |
 | [OpenCage](https://opencagedata.com) | Forward and reverse geocoding | `apiKey` | Yes | Freemium | [Docs](https://opencagedata.com/api) |
 | [PostalCodes.info](https://postalcodes.info/api) | Postal-code lookup, country exports, and address validation data | `apiKey` | Unknown | Freemium | [Docs](https://postalcodes.info/api) |
