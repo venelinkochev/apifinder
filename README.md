@@ -305,6 +305,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [ipapi](https://ipapi.co) | IP address geolocation | No | Yes | Freemium | [Docs](https://ipapi.co/api/) |
 | [IP-API](https://ip-api.com) | IP geolocation with timezone and ISP | No | Yes | Free | [Docs](https://ip-api.com/docs) |
 | [IP-API.io](https://ip-api.io) | IP geolocation with VPN/proxy/Tor detection and risk scoring | `apiKey` | Yes | Freemium | [Docs](https://ip-api.io/api-docs.html) |
+| [IPGeolocation.io](https://ipgeolocation.io) | IP geolocation, company information, ASN, security, abuse contacts, time zones and user-agent data. | `apiKey` | Yes | Freemium | [Docs](https://ipgeolocation.io/documentation.html) |
 | [ipinfo](https://ipinfo.io) | IP address data and geolocation | `apiKey` | Yes | Freemium | [Docs](https://ipinfo.io/developers) |
 
 ### Government
