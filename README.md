@@ -482,6 +482,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
 | [AviationStack](https://aviationstack.com) | Real-time flight data and tracking | `apiKey` | Yes | Freemium | [Docs](https://aviationstack.com/documentation) |
+| [HaulierScope](https://haulierscope.co.uk/developers) | Great Britain operator licence lookups, change history and public inquiries | No | Yes | Free | [Docs](https://haulierscope.co.uk/developers) |
 | [OpenSky Network](https://opensky-network.org) | Live air traffic data | No | Yes | Free | [Docs](https://openskynetwork.github.io/opensky-api/) |
 | [TransitLand](https://www.transit.land) | Public transit data worldwide | `apiKey` | Yes | Free | [Docs](https://www.transit.land/documentation) |
 | [Uber](https://www.uber.com) | Ride requests and price estimates | `OAuth` | Yes | Freemium | [Docs](https://developer.uber.com/docs) |
