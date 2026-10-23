@@ -501,6 +501,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 |-----|-------------|------|------|------|------|
 | [Dailymotion](https://www.dailymotion.com) | Video hosting and streaming | `OAuth` | Yes | Free | [Docs](https://developers.dailymotion.com/) |
 | [Mux](https://mux.com) | Video streaming and analytics | `apiKey` | Yes | Freemium | [Docs](https://docs.mux.com/) |
+| [Reclip](https://www.reclip.io/api) | Video, audio and image processing via REST API and hosted MCP; public beta | `apiKey` | Unknown | Paid | [Docs](https://www.reclip.io/docs) |
 | [Vimeo](https://vimeo.com) | Video hosting and sharing | `OAuth` | Yes | Freemium | [Docs](https://developer.vimeo.com/api/guides/start) |
 | [YouTube](https://www.youtube.com) | Video search, playlists, and channels | `apiKey` | Yes | Free | [Docs](https://developers.google.com/youtube/v3) |
 
