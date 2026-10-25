@@ -138,6 +138,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [Cat Facts](https://catfact.ninja) | Random cat facts | No | Yes | Free | [Docs](https://catfact.ninja/) |
 | [Dog API](https://dog.ceo) | Random dog images by breed | No | Yes | Free | [Docs](https://dog.ceo/dog-api/documentation/) |
 | [HTTP Cat](https://http.cat) | Cat images for HTTP status codes | No | Yes | Free | [Docs](https://http.cat/) |
+| [PetCremation](https://petcremation.fyi) | Directory of pet crematories and aftercare providers by city | No | Unknown | Free | [Docs](https://petcremation.fyi/developers) |
 | [The Cat API](https://thecatapi.com) | Random cat images and breeds info | `apiKey` | Yes | Free | [Docs](https://developers.thecatapi.com/) |
 | [The Dog API](https://thedogapi.com) | Random dog images and breeds info | `apiKey` | Yes | Free | [Docs](https://developers.thedogapi.com/) |
 
