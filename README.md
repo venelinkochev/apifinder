@@ -422,6 +422,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [AuctionFinder](https://auctionfinder.fyi) | Directory of auction houses, online auction platforms and government surplus | No | Unknown | Free | [Docs](https://auctionfinder.fyi/developers) |
 | [Best Buy](https://www.bestbuy.com) | Product catalog and store information | `apiKey` | Yes | Free | [Docs](https://developer.bestbuy.com/) |
 | [eBay](https://www.ebay.com) | Auction listings and marketplace | `OAuth` | Yes | Free | [Docs](https://developer.ebay.com/docs) |
 | [Etsy](https://www.etsy.com) | Handmade and vintage marketplace | `OAuth` | Yes | Free | [Docs](https://developers.etsy.com/documentation/) |
