@@ -323,6 +323,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [Nutritionix](https://www.nutritionix.com) | Nutrition data for foods and exercises | `apiKey` | Yes | Freemium | [Docs](https://docx.syndigo.com/developers/docs/nutritionix-api-guide) |
 | [Open Disease](https://disease.sh) | COVID-19, influenza, and disease statistics | No | Yes | Free | [Docs](https://disease.sh/docs/) |
 | [OpenFDA](https://open.fda.gov) | FDA drug, device, and food data | `apiKey` | Yes | Free | [Docs](https://open.fda.gov/apis/) |
+| [PeptideClinic](https://peptideclinic.fyi) | Directory of licensed US peptide clinics and telehealth providers by city | No | Unknown | Free | [Docs](https://peptideclinic.fyi/developers) |
 
 ### Images and Photography
 
