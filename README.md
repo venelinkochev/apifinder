@@ -425,6 +425,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [Best Buy](https://www.bestbuy.com) | Product catalog and store information | `apiKey` | Yes | Free | [Docs](https://developer.bestbuy.com/) |
 | [eBay](https://www.ebay.com) | Auction listings and marketplace | `OAuth` | Yes | Free | [Docs](https://developer.ebay.com/docs) |
 | [Etsy](https://www.etsy.com) | Handmade and vintage marketplace | `OAuth` | Yes | Free | [Docs](https://developers.etsy.com/documentation/) |
+| [SoldFetch](https://soldfetch.com) | eBay sold and active listings via REST and MCP; not affiliated with eBay | `apiKey` | Unknown | Freemium | [Docs](https://docs.soldfetch.com) |
 | [Walmart](https://www.walmart.com) | Product catalog and affiliate data | `apiKey` | Yes | Free | [Docs](https://developer.walmart.com/) |
 
 ### SMS
