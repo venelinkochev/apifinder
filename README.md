@@ -118,6 +118,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [AI Benchmark Index](https://aibenchmarkindex.com) | AI benchmarks with traceable data, licences and scores | No | Yes | Free | [Docs](https://aibenchmarkindex.com/developers) |
 | [Hugging Face](https://huggingface.co) | Access thousands of ML models for NLP, vision, and more | `apiKey` | Yes | Free | [Docs](https://huggingface.co/docs/api-inference) |
 | [OpenAI](https://openai.com) | GPT models, DALL-E, Whisper and more | `apiKey` | Yes | Paid | [Docs](https://platform.openai.com/docs/api-reference) |
 | [Replicate](https://replicate.com) | Run open-source ML models in the cloud | `apiKey` | Yes | Freemium | [Docs](https://replicate.com/docs) |
@@ -171,8 +172,11 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
 | [Alpha Vantage](https://www.alphavantage.co) | Stock, forex, and cryptocurrency data | `apiKey` | Yes | Freemium | [Docs](https://www.alphavantage.co/documentation/) |
+| [ESA Vendors](https://esavendors.fyi) | Education vendors and the programs families say reimburse them | No | Yes | Free | [Docs](https://esavendors.fyi/developers) |
 | [FinancialData.Net](https://financialdata.net/) | Real-time and historical stock data, financial statements, insider trades | `apiKey` | Yes | Freemium | [Docs](https://financialdata.net/documentation) |
 | [Finnhub](https://finnhub.io) | Real-time stock prices, company financials, and news | `apiKey` | Yes | Freemium | [Docs](https://finnhub.io/docs/api) |
+| [FuneralCompare](https://funeralcompare.fyi) | Funeral providers and the fee information they publish | No | Yes | Free | [Docs](https://funeralcompare.fyi/developers) |
+| [Public Adjusters Directory](https://publicadjusters.fyi) | Public adjusters, listed so you can check a licence before hiring | No | Yes | Free | [Docs](https://publicadjusters.fyi/developers) |
 | [Signaliz](https://signaliz.com) | GTM enrichment, lead generation, email verification, and company signals | `apiKey` | Unknown | Freemium | [Docs](https://signaliz.docs.buildwithfern.com/signaliz-api-public-docs/introduction) |
 
 ### Calendar
@@ -282,6 +286,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [Dish Directory](https://dishdirectory.com) | Restaurants with dishes, prices and hours, by city | No | Yes | Free | [Docs](https://dishdirectory.com/developers) |
 | [Open Food Facts](https://world.openfoodfacts.org) | Food products database with nutrition info | No | Yes | Open Source | [Docs](https://world.openfoodfacts.org/data) |
 | [Spoonacular](https://spoonacular.com) | Recipes, nutrition, and meal planning | `apiKey` | Yes | Freemium | [Docs](https://spoonacular.com/food-api/docs) |
 | [TheCocktailDB](https://www.thecocktaildb.com) | Cocktail recipes and ingredients | `apiKey` | Yes | Free | [Docs](https://www.thecocktaildb.com/api.php) |
@@ -311,18 +316,25 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [Apostille Finder](https://apostilles.fyi) | Government offices that issue apostilles, by country | No | Yes | Free | [Docs](https://apostilles.fyi/developers) |
 | [Data.gov](https://data.gov) | US government open data | `apiKey` | Yes | Free | [Docs](https://catalog.data.gov/dataset/) |
 | [EU Open Data](https://data.europa.eu) | European Union open data portal | No | Yes | Free | [Docs](https://dataeuropa.gitlab.io/data-provider-manual/api-documentation/) |
 | [Federal Register](https://www.federalregister.gov) | US federal regulations and notices | No | Yes | Free | [Docs](https://www.federalregister.gov/developers/documentation/api/v1) |
+| [ITINAgents](https://itinagents.fyi) | IRS ITIN acceptance agents, by country | No | Yes | Free | [Docs](https://itinagents.fyi/developers) |
+| [MarriageLicense](https://marriagelicense.fyi) | Marriage licence and notice-of-marriage offices, by country | No | Yes | Free | [Docs](https://marriagelicense.fyi/developers) |
 | [UK Government](https://www.gov.uk) | UK government datasets and services | No | Yes | Free | [Docs](https://www.api.gov.uk/) |
 
 ### Health and Fitness
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [ADHDEvaluations](https://adhdevaluations.fyi) | ADHD evaluation providers, searchable by region | No | Yes | Free | [Docs](https://adhdevaluations.fyi/developers) |
+| [MemoryCareHomes](https://memorycarehomes.fyi) | Memory care homes, checkable against the public register | No | Yes | Free | [Docs](https://memorycarehomes.fyi/developers) |
+| [MRIPrices](https://mriprices.fyi) | Cash-pay MRI prices at US hospitals, from published price files | No | Yes | Free | [Docs](https://mriprices.fyi/developers) |
 | [Nutritionix](https://www.nutritionix.com) | Nutrition data for foods and exercises | `apiKey` | Yes | Freemium | [Docs](https://docx.syndigo.com/developers/docs/nutritionix-api-guide) |
 | [Open Disease](https://disease.sh) | COVID-19, influenza, and disease statistics | No | Yes | Free | [Docs](https://disease.sh/docs/) |
 | [OpenFDA](https://open.fda.gov) | FDA drug, device, and food data | `apiKey` | Yes | Free | [Docs](https://open.fda.gov/apis/) |
+| [Opioid Treatment Directory](https://opioidtreatment.fyi) | Methadone and buprenorphine treatment providers, by country | No | Yes | Free | [Docs](https://opioidtreatment.fyi/developers) |
 
 ### Images and Photography
 
