@@ -222,6 +222,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [FutureInfra](https://futureinfra.ai/) | REST API for Korean cloud servers, container apps, DNS, and AI services | `apiKey` | Unknown | Paid | [Docs](https://futureinfra.ai/docs/) |
 | [GitHub](https://github.com) | Repositories, issues, pull requests, and more | `OAuth` | Yes | Free | [Docs](https://docs.github.com/en/rest) |
 | [GitLab](https://gitlab.com) | Git repository management and CI/CD | `OAuth` | Yes | Freemium | [Docs](https://docs.gitlab.com/ee/api/) |
 | [httpbin](https://httpbin.org) | HTTP request and response testing | No | Yes | Free | [Docs](https://httpbin.org/) |
