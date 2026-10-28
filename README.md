@@ -365,6 +365,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [FastAF](https://fastaf.co/compare/free-tier/?utm_source=apifinder&utm_medium=listing&utm_campaign=free-tier-lists) | Google SERP, web search, scraping and extract API for AI agents (500 free credits every month after email verification, not on x402) | `apiKey` | Yes | Freemium | [Docs](https://fastaf.co/docs/) |
 | [GNews](https://gnews.io) | Search news articles from various sources | `apiKey` | Yes | Freemium | [Docs](https://gnews.io/docs/v4) |
 | [Hacker News](https://news.ycombinator.com) | Tech news and discussions | No | Yes | Free | [Docs](https://github.com/HackerNews/API) |
 | [NewsAPI](https://newsapi.org) | News articles from 80,000+ sources | `apiKey` | Yes | Freemium | [Docs](https://newsapi.org/docs) |
