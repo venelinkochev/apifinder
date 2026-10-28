@@ -331,6 +331,8 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [Imgur](https://imgur.com) | Image hosting and sharing | `OAuth` | Yes | Free | [Docs](https://apidocs.imgur.com/) |
 | [Pexels](https://www.pexels.com) | Free stock photos and videos | `apiKey` | Yes | Free | [Docs](https://www.pexels.com/api/documentation/) |
 | [Remove.bg](https://www.remove.bg) | Remove image backgrounds automatically | `apiKey` | Yes | Freemium | [Docs](https://www.remove.bg/api) |
+| [SVGMaker API](https://svgmaker.io/api-platform) | AI SVG Generator, Editor & Vector Conversion | `apiKey` | Yes | Paid | [Docs](https://svgmaker.io/docs/api-reference) |
+| [SVGMaker Design Agent API](https://svgmaker.io/ai-design-agent-api) | AI design agent for logos, brand identity and production-ready vector files | `apiKey` | No | Paid | [Docs](https://svgmaker.io/docs/design-agent-api) |
 | [Unsplash](https://unsplash.com) | Beautiful free images and photos | `apiKey` | Yes | Free | [Docs](https://unsplash.com/documentation) |
 
 ### Jobs
