@@ -259,6 +259,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 |-----|-------------|------|------|------|------|
 | [JokeAPI](https://jokeapi.dev) | Programming, puns, and misc jokes | No | Yes | Free | [Docs](https://jokeapi.dev/) |
 | [OMDb](https://www.omdbapi.com) | Movie and TV show information | `apiKey` | Yes | Freemium | [Docs](https://www.omdbapi.com/) |
+| [ShortDramaKit](https://shortdramakit.com/) | Collect short-drama title and episode data for supported platforms | `apiKey` | No | Paid | [Docs](https://shortdramakit.com/docs/api) |
 | [TMDB](https://www.themoviedb.org) | Movies, TV shows, and actors database | `apiKey` | Yes | Free | [Docs](https://developer.themoviedb.org/docs) |
 | [TVmaze](https://www.tvmaze.com) | TV show and episode information | No | Yes | Free | [Docs](https://www.tvmaze.com/api) |
 
