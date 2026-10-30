@@ -222,6 +222,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [CurlShot](https://curlshot.com) | Website screenshots, PDFs and scrolling videos from a URL or HTML via one GET request | `apiKey` | Yes | Freemium | [Docs](https://curlshot.com/docs) |
 | [GitHub](https://github.com) | Repositories, issues, pull requests, and more | `OAuth` | Yes | Free | [Docs](https://docs.github.com/en/rest) |
 | [GitLab](https://gitlab.com) | Git repository management and CI/CD | `OAuth` | Yes | Freemium | [Docs](https://docs.gitlab.com/ee/api/) |
 | [httpbin](https://httpbin.org) | HTTP request and response testing | No | Yes | Free | [Docs](https://httpbin.org/) |
