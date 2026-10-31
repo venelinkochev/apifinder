@@ -196,6 +196,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
 | [Discord](https://discord.com) | Chat, voice, and community platform | `OAuth` | Yes | Free | [Docs](https://discord.com/developers/docs) |
+| [Fax for Agents](https://faxforagents.com) | Fax API and MCP server so AI agents can send and receive faxes | `apiKey` | No | Freemium | [Docs](https://faxforagents.com/docs/) |
 | [Matrix](https://matrix.org) | Decentralized, open communication protocol | `apiKey` | Yes | Open Source | [Docs](https://spec.matrix.org/latest/) |
 | [Slack](https://slack.com) | Team messaging and collaboration | `OAuth` | Yes | Freemium | [Docs](https://api.slack.com/) |
 | [Telegram](https://telegram.org) | Cloud-based messaging platform | `apiKey` | Yes | Free | [Docs](https://core.telegram.org/api) |
