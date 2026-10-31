@@ -37,6 +37,7 @@ A curated, open-source collection of public APIs organized by category. Discover
   - [Images and Photography](#images-and-photography)
   - [Jobs](#jobs)
   - [Maps](#maps)
+  - [Marketings](#marketings)
   - [Music](#music)
   - [News](#news)
   - [Open Data](#open-data)
@@ -87,6 +88,7 @@ A curated, open-source collection of public APIs organized by category. Discover
 | [Images and Photography](#images-and-photography) | Stock photos, image manipulation |
 | [Jobs](#jobs) | Job listings and career data |
 | [Maps](#maps) | Mapping, routing, and navigation |
+| [Marketings](#marketings) | Marketing, and booster |
 | [Music](#music) | Music streaming, metadata, and lyrics |
 | [News](#news) | News aggregation and articles |
 | [Open Data](#open-data) | Public datasets and open data sources |
@@ -351,6 +353,12 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [Mapbox](https://www.mapbox.com) | Custom maps, geocoding, and navigation | `apiKey` | Yes | Freemium | [Docs](https://docs.mapbox.com/api/) |
 | [OpenStreetMap](https://www.openstreetmap.org) | Free editable map of the world | No | Yes | Open Source | [Docs](https://wiki.openstreetmap.org/wiki/API) |
 | [OpenRouteService](https://openrouteservice.org) | Routing, geocoding, and isochrones | `apiKey` | Yes | Free | [Docs](https://openrouteservice.org/dev/#/api-docs) |
+
+### Marketing
+
+| API | Description | Auth | CORS | Type | Docs |
+|-----|-------------|------|------|------|------|
+| [Instanizer SMM Panel Reseller API](https://instanizer.com/en/api-smm-panel) | SMM panel reseller API: order followers, likes, views; OpenAPI spec | `apiKey` | No | Paid | [Docs](https://instanizer.com/en/api-docs) |
 
 ### Music
 
