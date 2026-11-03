@@ -232,6 +232,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [KaijuConverter](https://kaijuconverter.com/api-docs) | Convert 201+ file formats, 12-language OCR, PDF/A archival, and MCP Server | `apiKey` | Yes | Yes |
 | [ConvertHub](https://converthub.com/api) | Convert documents, images, ebooks, presentations, and more — all in one API. Fast, secure, and easy to integrate. | `apiKey` | No | Paid | [Docs](https://converthub.com/api/docs) |
 
 ### E-commerce
