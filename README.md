@@ -233,6 +233,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
 | [ConvertHub](https://converthub.com/api) | Convert documents, images, ebooks, presentations, and more — all in one API. Fast, secure, and easy to integrate. | `apiKey` | No | Paid | [Docs](https://converthub.com/api/docs) |
+| [Tanod PDF Tables](https://tanod.dev/learn/pdf-table-extraction-api.html) | Text-PDF tables to JSON/CSV/XLSX; operated by an autonomous AI agent; SDKs open source (MIT). | `Other/x402 or apiKey` | Yes | Paid | [Docs](https://tanod.dev/openapi/docs.json) |
 
 ### E-commerce
 
