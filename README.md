@@ -224,6 +224,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 |-----|-------------|------|------|------|------|
 | [GitHub](https://github.com) | Repositories, issues, pull requests, and more | `OAuth` | Yes | Free | [Docs](https://docs.github.com/en/rest) |
 | [GitLab](https://gitlab.com) | Git repository management and CI/CD | `OAuth` | Yes | Freemium | [Docs](https://docs.gitlab.com/ee/api/) |
+| [Google Search API — FlashData](https://flashdata.dev/docs/sources/google_search) | Google web results with titles, links, snippets and positions, not full-page extraction | `apiKey` | Unknown | Paid | [Docs](https://flashdata.dev/docs/sources/google_search) |
 | [httpbin](https://httpbin.org) | HTTP request and response testing | No | Yes | Free | [Docs](https://httpbin.org/) |
 | [Replit](https://replit.com) | Collaborative code editor and hosting | `apiKey` | Yes | Freemium | [Docs](https://docs.replit.com/) |
 | [ScreenshotAPI](https://screenshotapi.to) | Capture website screenshots and PDFs from URLs or HTML | `apiKey` | Yes | Freemium | [Docs](https://screenshotapi.to/docs/api/screenshot) |
@@ -328,6 +329,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [Google Images API — FlashData](https://flashdata.dev/docs/sources/google_images) | Image search results with source URLs, thumbnails and available dimensions | `apiKey` | Unknown | Paid | [Docs](https://flashdata.dev/docs/sources/google_images) |
 | [Imgur](https://imgur.com) | Image hosting and sharing | `OAuth` | Yes | Free | [Docs](https://apidocs.imgur.com/) |
 | [Pexels](https://www.pexels.com) | Free stock photos and videos | `apiKey` | Yes | Free | [Docs](https://www.pexels.com/api/documentation/) |
 | [Remove.bg](https://www.remove.bg) | Remove image backgrounds automatically | `apiKey` | Yes | Freemium | [Docs](https://www.remove.bg/api) |
@@ -348,6 +350,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
 | [Google Maps](https://maps.google.com) | Maps, directions, and places | `apiKey` | Yes | Freemium | [Docs](https://developers.google.com/maps/documentation) |
+| [Google Places API — FlashData](https://flashdata.dev/docs/sources/google_places) | Place search results with addresses and available ratings or contact fields | `apiKey` | Unknown | Paid | [Docs](https://flashdata.dev/docs/sources/google_places) |
 | [Mapbox](https://www.mapbox.com) | Custom maps, geocoding, and navigation | `apiKey` | Yes | Freemium | [Docs](https://docs.mapbox.com/api/) |
 | [OpenStreetMap](https://www.openstreetmap.org) | Free editable map of the world | No | Yes | Open Source | [Docs](https://wiki.openstreetmap.org/wiki/API) |
 | [OpenRouteService](https://openrouteservice.org) | Routing, geocoding, and isochrones | `apiKey` | Yes | Free | [Docs](https://openrouteservice.org/dev/#/api-docs) |
@@ -366,6 +369,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
 | [GNews](https://gnews.io) | Search news articles from various sources | `apiKey` | Yes | Freemium | [Docs](https://gnews.io/docs/v4) |
+| [Google News API — FlashData](https://flashdata.dev/docs/sources/google_news) | Google News headlines, publishers, links and snippets, not full articles | `apiKey` | Unknown | Paid | [Docs](https://flashdata.dev/docs/sources/google_news) |
 | [Hacker News](https://news.ycombinator.com) | Tech news and discussions | No | Yes | Free | [Docs](https://github.com/HackerNews/API) |
 | [NewsAPI](https://newsapi.org) | News articles from 80,000+ sources | `apiKey` | Yes | Freemium | [Docs](https://newsapi.org/docs) |
 | [New York Times](https://www.nytimes.com) | NYT articles, archives, and best sellers | `apiKey` | Yes | Freemium | [Docs](https://developer.nytimes.com/apis) |
@@ -425,6 +429,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [Best Buy](https://www.bestbuy.com) | Product catalog and store information | `apiKey` | Yes | Free | [Docs](https://developer.bestbuy.com/) |
 | [eBay](https://www.ebay.com) | Auction listings and marketplace | `OAuth` | Yes | Free | [Docs](https://developer.ebay.com/docs) |
 | [Etsy](https://www.etsy.com) | Handmade and vintage marketplace | `OAuth` | Yes | Free | [Docs](https://developers.etsy.com/documentation/) |
+| [Google Shopping API — FlashData](https://flashdata.dev/docs/sources/google_shopping) | Shopping result snapshots with merchants and available price fields | `apiKey` | Unknown | Paid | [Docs](https://flashdata.dev/docs/sources/google_shopping) |
 | [Walmart](https://www.walmart.com) | Product catalog and affiliate data | `apiKey` | Yes | Free | [Docs](https://developer.walmart.com/) |
 
 ### SMS
@@ -500,9 +505,19 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
 | [Dailymotion](https://www.dailymotion.com) | Video hosting and streaming | `OAuth` | Yes | Free | [Docs](https://developers.dailymotion.com/) |
+| [Google Videos API — FlashData](https://flashdata.dev/docs/sources/google_videos) | Cross-site video search results from Google, separate from YouTube search | `apiKey` | Unknown | Paid | [Docs](https://flashdata.dev/docs/sources/google_videos) |
 | [Mux](https://mux.com) | Video streaming and analytics | `apiKey` | Yes | Freemium | [Docs](https://docs.mux.com/) |
 | [Vimeo](https://vimeo.com) | Video hosting and sharing | `OAuth` | Yes | Freemium | [Docs](https://developer.vimeo.com/api/guides/start) |
 | [YouTube](https://www.youtube.com) | Video search, playlists, and channels | `apiKey` | Yes | Free | [Docs](https://developers.google.com/youtube/v3) |
+| [YouTube Captions API — FlashData](https://flashdata.dev/docs/sources/youtube_captions) | Retrieve existing uploader captions by language; no transcription or translation | `apiKey` | Unknown | Paid | [Docs](https://flashdata.dev/docs/sources/youtube_captions) |
+| [YouTube Channel API — FlashData](https://flashdata.dev/docs/sources/youtube_channel) | Channel profiles and recent videos by handle, with available statistics | `apiKey` | Unknown | Paid | [Docs](https://flashdata.dev/docs/sources/youtube_channel) |
+| [YouTube Download API — FlashData](https://flashdata.dev/docs/sources/youtube_download) | Asynchronous video or audio delivery to customer cloud storage, billed by delivered data | `apiKey` | Unknown | Paid | [Docs](https://flashdata.dev/docs/sources/youtube_download) |
+| [YouTube Extended Search API — FlashData](https://flashdata.dev/docs/sources/youtube_search_extended) | Larger YouTube video result sets with a separate rate; actual result counts may vary | `apiKey` | Unknown | Paid | [Docs](https://flashdata.dev/docs/sources/youtube_search_extended) |
+| [YouTube License Metadata API — FlashData](https://flashdata.dev/docs/sources/youtube_trainability) | Check video license labels such as Creative Commons; not training authorization | `apiKey` | Unknown | Paid | [Docs](https://flashdata.dev/docs/sources/youtube_trainability) |
+| [YouTube Metadata API — FlashData](https://flashdata.dev/docs/sources/youtube_metadata) | Video metadata with available chapters and formats by video ID | `apiKey` | Unknown | Paid | [Docs](https://flashdata.dev/docs/sources/youtube_metadata) |
+| [YouTube Search API — FlashData](https://flashdata.dev/docs/sources/youtube_search) | Find YouTube videos by keyword and return structured video results | `apiKey` | Unknown | Paid | [Docs](https://flashdata.dev/docs/sources/youtube_search) |
+| [YouTube Suggestions API — FlashData](https://flashdata.dev/docs/sources/youtube_suggestions) | YouTube autocomplete phrases by query prefix, language and region; no search volumes | `apiKey` | Unknown | Paid | [Docs](https://flashdata.dev/docs/sources/youtube_suggestions) |
+| [YouTube Transcript API — FlashData](https://flashdata.dev/docs/sources/youtube_transcript) | Retrieve existing automatic captions with timestamps; no audio transcription fallback | `apiKey` | Unknown | Paid | [Docs](https://flashdata.dev/docs/sources/youtube_transcript) |
 
 ### Weather
 
