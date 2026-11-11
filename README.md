@@ -173,6 +173,8 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [Alpha Vantage](https://www.alphavantage.co) | Stock, forex, and cryptocurrency data | `apiKey` | Yes | Freemium | [Docs](https://www.alphavantage.co/documentation/) |
 | [FinancialData.Net](https://financialdata.net/) | Real-time and historical stock data, financial statements, insider trades | `apiKey` | Yes | Freemium | [Docs](https://financialdata.net/documentation) |
 | [Finnhub](https://finnhub.io) | Real-time stock prices, company financials, and news | `apiKey` | Yes | Freemium | [Docs](https://finnhub.io/docs/api) |
+| [Quotelinks Credit Market Data](https://www.quotelinks.com/api/credit-market-data/) | NY Fed corporate bond distress index, Treasury HQM yield curve and CFTC CDS data | No | Yes | Free | [Docs](https://www.quotelinks.com/api/credit-market-data/) |
+| [Quotelinks SEC Fundamentals](https://www.quotelinks.com/api/sec-fundamentals/) | Standardized SEC EDGAR financial statements, profiles and filings for 21,000+ companies | No | Yes | Free | [Docs](https://www.quotelinks.com/api/sec-fundamentals/) |
 | [Signaliz](https://signaliz.com) | GTM enrichment, lead generation, email verification, and company signals | `apiKey` | Unknown | Freemium | [Docs](https://signaliz.docs.buildwithfern.com/signaliz-api-public-docs/introduction) |
 
 ### Calendar
@@ -208,6 +210,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [Frankfurter](https://www.frankfurter.app) | Exchange rates from European Central Bank | No | Yes | Free | [Docs](https://www.frankfurter.app/docs/) |
 | [Fixer](https://fixer.io) | Foreign exchange rates and currency conversion | `apiKey` | Yes | Freemium | [Docs](https://fixer.io/documentation) |
 | [Open Exchange Rates](https://openexchangerates.org) | Real-time and historical exchange rates | `apiKey` | Yes | Freemium | [Docs](https://docs.openexchangerates.org/) |
+| [Quotelinks Exchange Rates](https://www.quotelinks.com/api/exchange-rates/) | ECB daily euro reference rates for 30 currencies since 1999, with conversion | No | Yes | Free | [Docs](https://www.quotelinks.com/api/exchange-rates/) |
 
 ### Data Validation
 
