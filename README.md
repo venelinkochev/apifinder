@@ -127,7 +127,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
-| [AgentSEO](https://www.agentseo.dev) | SEO API for Google SERPs, keyword research, local rank tracking, and AI Overview citations | `apiKey` | Unknown | Freemium | [Docs](https://www.agentseo.dev/docs/api-reference) |
+| [AgentSEO](https://www.agentseo.dev) | SEO/AEO API for Google SERPs and AI visibility; 100 one-time live credits; plans from $9/mo | `apiKey` | Unknown | Paid | [Docs](https://www.agentseo.dev/docs/api-reference) |
 | [Plausible](https://plausible.io) | Privacy-friendly website analytics | `apiKey` | Yes | Open Source | [Docs](https://plausible.io/docs/stats-api) |
 | [PostHog](https://posthog.com) | Product analytics, feature flags, and session replay | `apiKey` | Yes | Open Source | [Docs](https://posthog.com/docs/api) |
 | [Umami](https://umami.is) | Simple, fast, privacy-focused analytics | `apiKey` | Yes | Open Source | [Docs](https://umami.is/docs/api) |
