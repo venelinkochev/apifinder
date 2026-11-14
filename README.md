@@ -157,6 +157,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [CoinGecko](https://www.coingecko.com) | Cryptocurrency prices, market data, and exchanges | No | Yes | Free | [Docs](https://www.coingecko.com/en/api/documentation) |
 | [CoinMarketCap](https://coinmarketcap.com) | Cryptocurrency market cap rankings and data | `apiKey` | Yes | Freemium | [Docs](https://coinmarketcap.com/api/documentation/v1/) |
 | [Etherscan](https://etherscan.io) | Ethereum blockchain explorer and analytics | `apiKey` | Yes | Freemium | [Docs](https://docs.etherscan.io/) |
+| [链小知区块链 (Lianxiaozhi)](https://lianxiaozhi.com) | Chinese blockchain news, event timelines, knowledge guides and onchain tool tutorials | No | Yes | Free | [Docs](https://lianxiaozhi.com/agent) |
 
 ### Books
 
