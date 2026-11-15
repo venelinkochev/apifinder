@@ -359,6 +359,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [Genius](https://genius.com) | Song lyrics and music knowledge | `OAuth` | Yes | Free | [Docs](https://docs.genius.com/) |
 | [Last.fm](https://www.last.fm) | Music discovery and scrobbling | `apiKey` | Yes | Free | [Docs](https://www.last.fm/api) |
 | [MusicBrainz](https://musicbrainz.org) | Open music encyclopedia | No | Yes | Open Source | [Docs](https://musicbrainz.org/doc/MusicBrainz_API) |
+| [No Stairs Please](https://nostairsplease.com) | Live-music venue directory & touring MCP endpoint across North America | No | Yes | Freemium | [Docs](https://nostairsplease.com/mcp) |
 | [Spotify](https://www.spotify.com) | Music streaming, playlists, and metadata | `OAuth` | Yes | Free | [Docs](https://developer.spotify.com/documentation/web-api) |
 
 ### News
