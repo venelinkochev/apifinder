@@ -233,6 +233,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
 | [ConvertHub](https://converthub.com/api) | Convert documents, images, ebooks, presentations, and more — all in one API. Fast, secure, and easy to integrate. | `apiKey` | No | Paid | [Docs](https://converthub.com/api/docs) |
+| [ConvertIntoMP4](https://convertintomp4.com/developers) | Convert video, audio, image, document, ebook, archive and font files with async jobs and webhooks | `apiKey` | No | Freemium | [Docs](https://convertintomp4.com/api-docs) |
 
 ### E-commerce
 
