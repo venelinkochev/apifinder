@@ -118,6 +118,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [CloudGPU](https://cloudgpu.app/api) | OpenAI-compatible APIs for chat, image generation, speech, and transcription | `apiKey` | Unknown | Paid | [Docs](https://cloudgpu.app/api/docs) |
 | [Hugging Face](https://huggingface.co) | Access thousands of ML models for NLP, vision, and more | `apiKey` | Yes | Free | [Docs](https://huggingface.co/docs/api-inference) |
 | [OpenAI](https://openai.com) | GPT models, DALL-E, Whisper and more | `apiKey` | Yes | Paid | [Docs](https://platform.openai.com/docs/api-reference) |
 | [Replicate](https://replicate.com) | Run open-source ML models in the cloud | `apiKey` | Yes | Freemium | [Docs](https://replicate.com/docs) |
