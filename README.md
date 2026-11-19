@@ -122,6 +122,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [OpenAI](https://openai.com) | GPT models, DALL-E, Whisper and more | `apiKey` | Yes | Paid | [Docs](https://platform.openai.com/docs/api-reference) |
 | [Replicate](https://replicate.com) | Run open-source ML models in the cloud | `apiKey` | Yes | Freemium | [Docs](https://replicate.com/docs) |
 | [Stability AI](https://stability.ai) | Stable Diffusion and other generative AI models | `apiKey` | Yes | Freemium | [Docs](https://platform.stability.ai/docs/api-reference) |
+| [VezAPI](https://vezapi.com/) | Image, video and audio AI APIs with shared prepaid credits, task polling and callbacks | `apiKey` | Unknown | Paid | [Docs](https://vezapi.com/docs/) |
 
 ### Analytics
 
