@@ -426,6 +426,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [eBay](https://www.ebay.com) | Auction listings and marketplace | `OAuth` | Yes | Free | [Docs](https://developer.ebay.com/docs) |
 | [Etsy](https://www.etsy.com) | Handmade and vintage marketplace | `OAuth` | Yes | Free | [Docs](https://developers.etsy.com/documentation/) |
 | [Walmart](https://www.walmart.com) | Product catalog and affiliate data | `apiKey` | Yes | Free | [Docs](https://developer.walmart.com/) |
+| [Within](https://shopwithin.co) | Find clothes, shoes and bags in stock at independent boutiques by designer, size or city | `No` | Yes | Free | [Docs](https://shopwithin.co/agents) |
 
 ### SMS
 
