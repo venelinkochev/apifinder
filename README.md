@@ -225,6 +225,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [GitHub](https://github.com) | Repositories, issues, pull requests, and more | `OAuth` | Yes | Free | [Docs](https://docs.github.com/en/rest) |
 | [GitLab](https://gitlab.com) | Git repository management and CI/CD | `OAuth` | Yes | Freemium | [Docs](https://docs.gitlab.com/ee/api/) |
 | [httpbin](https://httpbin.org) | HTTP request and response testing | No | Yes | Free | [Docs](https://httpbin.org/) |
+| [Pageree](https://pageree.com) | Hosted MCP server: your AI assistant publishes landing pages and delivers form leads | `OAuth` | No | Freemium | [Docs](https://pageree.com/docs/) |
 | [Replit](https://replit.com) | Collaborative code editor and hosting | `apiKey` | Yes | Freemium | [Docs](https://docs.replit.com/) |
 | [ScreenshotAPI](https://screenshotapi.to) | Capture website screenshots and PDFs from URLs or HTML | `apiKey` | Yes | Freemium | [Docs](https://screenshotapi.to/docs/api/screenshot) |
 
