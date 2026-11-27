@@ -441,6 +441,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [Left Unsaid Site Information API](https://leftunsaid.app/) | Read public app information and links to groups, rules, and privacy | No | Unknown | Free | [Docs](https://leftunsaid.app/openapi.json) |
 | [LinkedIn](https://www.linkedin.com) | Professional networking and profiles | `OAuth` | Yes | Freemium | [Docs](https://learn.microsoft.com/en-us/linkedin/) |
 | [Mastodon](https://joinmastodon.org) | Decentralized social networking | `OAuth` | Yes | Open Source | [Docs](https://docs.joinmastodon.org/api/) |
 | [Reddit](https://www.reddit.com) | Social news and community discussions | `OAuth` | Yes | Free | [Docs](https://www.reddit.com/dev/api/) |
